@@ -1,0 +1,108 @@
+{
+    "servicios": [
+      {
+        "id": 1,
+        "name": "FarmaHorro",
+        "direccion": "",
+        "telefono": "+582642515021"
+      },
+      {
+        "id": 2,
+        "name": "Santa Berenice",
+        "direccion": "",
+        "telefono": "+5826437158623"
+      },
+      {
+        "id": 3,
+        "name": "Farmacia Económica",
+        "direccion": "",
+        "telefono": "+5826437196824"
+      },
+      {
+        "id": 4,
+        "name": "Farmacia El Lucero",
+        "direccion": "",
+        "telefono": "+582643714876"
+      },
+      {
+        "id": 5,
+        "name": "Locatel",
+        "direccion": "",
+        "telefono": "+582643712766"
+      },
+      {
+        "id": 6,
+        "name": "Farmacia Petrolandia",
+        "direccion": "",
+        "telefono": "+5802642411950"
+      },
+      {
+        "id": 7,
+        "name": "Farmacia Santa Eduviges",
+        "direccion": "",
+        "telefono": "+582642411067"
+      },
+      {
+        "id": 8,
+        "name": "Farmacia Riderina",
+        "direccion": "",
+        "telefono": "+582642412403"
+      },
+      {
+        "id": 9,
+        "name": "Farmacia Saas",
+        "direccion": "",
+        "telefono": "+588007227123"
+      }
+    ],
+    "oxigenos": [
+        {
+            "id": 1,
+            "name": "Hermanos Calle",
+            "direccion": "",
+            "telefono": "+584146123643"
+          }
+      ]
+}
+
+// 9. F. Saas: 0800-7227123.
+// 10. F.Bolivariana 5 BoCas: 02643711733.
+// 11.Botiquería Catedral: 0264-2411453.
+// 12. Carnevalli: 0264-2411154.
+// 13. F. Frente Centro Médico: 0264-2411017.
+// 14. ColFarma: 0264-3718575.
+// 15. Farmaplaza: 0264-3714368.
+// 16. F. Luz 1: 0264-2612666.
+// 17. F.Lado D Catedral: 0264-2411174.
+// 18. F. R10: 0264-3718870. 
+// 19. Santa Clara: 0264-3710005.
+// 20. FarmaTodo: 0264-2417965.
+// 21. F. Concordia: 0264-8152576, 0264-2512777, 0264-9350343.
+// 22. F. Bethania: 0264-2415250.
+// 23. El Lucero: 0264-3714876.
+// 24. 19 De Abril: 0264-2610772.
+// 25. San Martin: 0264-2415927.
+// 26. Bolivariana cabillas: 0264-3712640.
+
+// Bombonas de Oxígeno Cabimas
+
+// Hermanos Calle
+// 04146123643
+
+// Héctor Bombona
+// 04246257396
+
+// Jacobo Olivares
+// 04246976737
+
+// Juan Ordoñez
+// 04246244984
+
+// Inmacolca
+// 04126812261
+
+// Oviher Cenibit
+// 04140631985
+
+// Oxiferreca
+// 04127400781
