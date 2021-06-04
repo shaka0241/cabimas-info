@@ -65,6 +65,12 @@
         "name": "Botiquería Catedral",
         "direccion": "",
         "telefono": "+582642411453"
+      },
+      {
+        "id": 12,
+        "name": "Carnevalli",
+        "direccion": "",
+        "telefono": "+582642411154"
       }
     ],
     "oxigenos": [
