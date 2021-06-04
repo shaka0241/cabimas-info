@@ -59,6 +59,12 @@
         "name": "Farmacia Bolivariana 5 BoCas",
         "direccion": "",
         "telefono": "+582643711733"
+      },
+      {
+        "id": 11,
+        "name": "Botiquería Catedral",
+        "direccion": "",
+        "telefono": "+582642411453"
       }
     ],
     "oxigenos": [
