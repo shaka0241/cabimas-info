@@ -53,6 +53,12 @@
         "name": "Farmacia Saas",
         "direccion": "",
         "telefono": "+588007227123"
+      },
+      {
+        "id": 10,
+        "name": "Farmacia Bolivariana 5 BoCas",
+        "direccion": "",
+        "telefono": "+582643711733"
       }
     ],
     "oxigenos": [
@@ -61,6 +67,12 @@
             "name": "Hermanos Calle",
             "direccion": "",
             "telefono": "+584146123643"
+          },
+          {
+            "id": 2,
+            "name": "Héctor Bombona",
+            "direccion": "",
+            "telefono": "+584246257396"
           }
       ]
 }
