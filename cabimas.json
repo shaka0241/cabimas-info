@@ -114,7 +114,7 @@
       },
       {
         "id": 17,
-        "name": "Farmacia SAAS Razetti",
+        "name": "Farmacia Saas Razetti",
         "direccion": "Calle Miranda Edificio Arapa, Local 1 y 2, al lado de la Catedral de Cabimas",
         "googleMap": "https://goo.gl/maps/EgkwCdNWUburhG16A",
         "telefono": "+582642411174"
@@ -156,7 +156,7 @@
       },
       {
         "id": 23,
-        "name": "Farmacia Bolivariana Las Cabilla",
+        "name": "Farmacia Bolivariana Las Cabillas",
         "direccion": "Avenida principal Las Cabillas",
         "googleMap": "https://goo.gl/maps/oUNXJMtkBBmJBJy19",
         "telefono": "+582643712640"
@@ -180,8 +180,9 @@
         {
             "id": 1,
             "name": "Hermanos Calle",
-            "direccion": "",
-            "telefono": "+584146123643"
+            "direccion": "Avenida Intercomunal, antes de llegar al semáforo de las 5 Bocas, diagonal a Locatel",
+            "telefono": "+584146123643",
+            "googleMap": "https://goo.gl/maps/bvyfyLP8rdgLf7SJ7"
           },
           {
             "id": 2,
@@ -192,26 +193,30 @@
           {
             "id": 3,
             "name": "Jacobo Olivares",
-            "direccion": "",
-            "telefono": "+584246976737"
+            "direccion": "Calle Cumana, despues del Santiago Mariño sentido Centro Medico, frente a un antiguo taller de Pintura",
+            "telefono": "+584246976737",
+            "googleMap": "https://goo.gl/maps/QLewVJvKcQGSpVdP7"
           },
           {
             "id": 4,
             "name": "Juan Ordoñez",
-            "direccion": "",
-            "telefono": "+584246244984"
+            "direccion": "Avenida princial Las Cabillas, diagonal a Hielo Masseco",
+            "telefono": "+584246244984",
+            "googleMap": "https://goo.gl/maps/yEB4tQ5iRxXQwcRAA"
           },
           {
             "id": 5,
             "name": "Inmacolca",
-            "direccion": "",
-            "telefono": "+584126812261"
+            "direccion": "Avenida Intercomunal, carretera J, diagonal a Hotel Di Maio",
+            "telefono": "+584126812261",
+            "googleMap": "https://goo.gl/maps/jbNdUmCTrd4LKF2VA"
           },
           {
             "id": 6,
-            "name": "Oviher Cenibit",
-            "direccion": "",
-            "telefono": "+584140631985"
+            "name": "Oviher C.A.",
+            "direccion": "Calle Coromoto (Diagonal C.C La Fuente), antiguo Cenibit",
+            "telefono": "+584140631985",
+            "googleMap": "https://goo.gl/maps/YYxz2Ak1gvnfv3xg9"
           },
           {
             "id": 7,
@@ -237,29 +242,3 @@
           }
       ]
 }
-
-// 1-Farmacia Comprepormenos +58 424-6465357
-// 2-Farmacia SAAS Razetti  +58 412-2267728
-// 3-Farmacia Farmacentro 1 +58 414-6759432 
-// 4-Farmacia Farmacentro 1 Turno de noche 02642417880
-// 4.1-Farmacia Farmacentro Pingüino +58 412-1697804
-// 5-Farmacia MaraPlus Centro +58 424-6449592
-// 6-Farmacia Maraplus Intercomunal +58 412-1640650
-// 7-Farmacia Centro Cívico +58 412-1264983
-// 8-Farmacia SAS Barrio Obrero +58 424-6074140 
-// 9-Farmacia San Isidro +58 424-6858937
-// 10-Farmacia 19 de Abril +58 412-6520960 
-// 10.1- Farmacia 19 de Abril Guardia de noche +58 412-6539437
-// 10.2- Farmacia 19 de Abril Guardia de noche +58 414-6306586
-// 11- Farmacia SAAS LA TROPICAL Mcbo +58 414-1660960
-// 12- Farmacia Farmatodo +58 424-2443848
-// 13- Farmacia Locatel +58 414-2182936
-// 14-Farmacia Economica +58 424-6581939
-// 15-Farmacia Marchap +58 414-6775130
-// 16-Farmacia las Cabillas +58 424-6681553
-// 17- Farmacia las 4 Y 2 +58 414-6342578
-// 18- Farmacia la Luz la J +58 412-1675838
-// 19- Farmacia Riderina +58 412-0642151
-// 20- Farmacia Farma bien +58 424-6700387
-// 21- Farmacia Farma Ahorro +58 424-6683879
-// 22- Farmacia Mediquir Ciudad Ojeda +58 414-6851340
