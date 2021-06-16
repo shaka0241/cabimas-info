@@ -3,160 +3,178 @@
       {
         "id": 1,
         "name": "FarmaHorro",
-        "direccion": "",
+        "direccion": "Carretera H Alma Rosa",
+        "googleMap": "https://goo.gl/maps/XKLwFy9Zt12GVsxN6",
         "telefono": "+582642515021"
       },
       {
         "id": 2,
-        "name": "Santa Berenice",
-        "direccion": "",
+        "name": "Farmacia Santa Berenice",
+        "direccion": "Calle Gas Plant",
+        "googleMap": "https://goo.gl/maps/9P6wwPCDAzV3g62TA",
         "telefono": "+5826437158623"
       },
       {
         "id": 3,
-        "name": "Farmacia Económica",
-        "direccion": "",
+        "name": "Farmacia Economik",
+        "direccion": "Cruce con Carretera K",
+        "googleMap": "https://goo.gl/maps/C8tJ5J85B1iDoEou8",
         "telefono": "+5826437196824"
       },
       {
         "id": 4,
         "name": "Farmacia El Lucero",
-        "direccion": "",
+        "direccion": "El Lucero",
+        "googleMap": "https://goo.gl/maps/ASabmzYPqsro1seC6",
         "telefono": "+582643714876"
       },
       {
         "id": 5,
         "name": "Locatel",
-        "direccion": "",
+        "direccion": "Avenida Intercomunal",
+        "googleMap": "https://goo.gl/maps/DpphhyrsroZ1CFaH7",
         "telefono": "+582643712766"
       },
       {
         "id": 6,
         "name": "Farmacia Petrolandia",
-        "direccion": "",
+        "direccion": "Local No. 167, Calle Miranda, con Calle Rosario",
+        "googleMap": "https://goo.gl/maps/Bpydb1Mgg56gcC8j8",
         "telefono": "+5802642411950"
       },
       {
         "id": 7,
         "name": "Farmacia Santa Eduviges",
-        "direccion": "",
+        "direccion": "Carretera  H, Centro Comercial  Diego, Planta Baja, Local 1",
+        "googleMap": "https://goo.gl/maps/rKZbYQW2jpbH1Gor9",
         "telefono": "+582642411067"
       },
       {
         "id": 8,
         "name": "Farmacia Riderina",
-        "direccion": "",
+        "direccion": "Carretera H con Avenida Carabobo",
+        "googleMap": "https://goo.gl/maps/29BnGWMtLRMQ2U3K6",
         "telefono": "+582642412403"
       },
       {
         "id": 9,
         "name": "Farmacia Saas",
         "direccion": "",
+        "googleMap": "",
         "telefono": "+588007227123"
       },
       {
         "id": 10,
-        "name": "Farmacia Bolivariana 5 BoCas",
-        "direccion": "",
+        "name": "Farmacia Bolivariana 5 Bocas",
+        "direccion": "Avenida Intercomunal, urbanización Las 5 Bocas",
+        "googleMap": "https://goo.gl/maps/Y3Q7nLGmfunTvA5H8",
         "telefono": "+582643711733"
       },
       {
         "id": 11,
-        "name": "Botiquería Catedral",
-        "direccion": "",
+        "name": "Botiquería Farmacia Rosario",
+        "direccion": "Avenida Principal Independecia Local #78 frente a la Catedral. Casco Central",
+        "googleMap": "https://goo.gl/maps/nxgZuzv71AbY6qUt8",
         "telefono": "+582642411453"
       },
       {
         "id": 12,
-        "name": "Carnevalli",
-        "direccion": "",
+        "name": "Saas Carnevalli",
+        "direccion": "Avenida Carnevalli",
+        "googleMap": "https://goo.gl/maps/JXhknbnYaJjghpdk6",
         "telefono": "+582642411154"
       },
       {
         "id": 13,
-        "name": "Farmacia Frente Centro Médico",
-        "direccion": "",
+        "name": "Farmacia Farma Barato",
+        "direccion": "Avenida Miraflores, Campito",
+        "googleMap": "https://goo.gl/maps/5xDc9NU4yfDoadSA8",
         "telefono": "+582642411017"
       },
       {
         "id": 14,
         "name": "ColFarma",
         "direccion": "",
+        "googleMap": "https://goo.gl/maps/XEvqNTA6KuZMVqKdA",
         "telefono": "+582643718575"
       },
       {
         "id": 15,
         "name": "Farmaplaza",
-        "direccion": "",
+        "direccion": "Barrio El Carmen, Avenida 32 con Carretera K Edificio Nea Planta Baja Local 1",
+        "googleMap": "https://goo.gl/maps/EBQDjTbU2tGH3Baa7",
         "telefono": "+582643714368"
       },
       {
         "id": 16,
         "name": "Farmacia Luz 1",
         "direccion": "",
+        "googleMap": "",
         "telefono": "+582642612666"
       },
       {
         "id": 17,
-        "name": "Farmacia Lado D Catedral",
-        "direccion": "",
+        "name": "Farmacia SAAS Razetti",
+        "direccion": "Calle Miranda Edificio Arapa, Local 1 y 2, al lado de la Catedral de Cabimas",
+        "googleMap": "https://goo.gl/maps/EgkwCdNWUburhG16A",
         "telefono": "+582642411174"
       },
       {
         "id": 18,
-        "name": "Farmacia R10",
+        "name": "Farmacia Bicentenario",
         "direccion": "",
-        "telefono": "+582643718870"
+        "googleMap": "",
+        "telefono": "+582647319733"
       },
       {
         "id": 19,
-        "name": "Santa Clara",
+        "name": "Farmacia Saas Santa Clara",
         "direccion": "",
+        "googleMap": "",
         "telefono": "+582643710005"
       },
       {
         "id": 20,
-        "name": "FarmaTodo",
-        "direccion": "",
+        "name": "Farmatodo",
+        "direccion": "Calle 4, Sector Las Cuarenta",
+        "googleMap": "https://goo.gl/maps/3rCkKwmEmcCUjm2s7",
         "telefono": "+582642417965"
       },
       {
         "id": 21,
         "name": "Farmacia Concordia",
-        "direccion": "",
+        "direccion": "Avenida 32 esquina calle Peru",
+        "googleMap": "https://goo.gl/maps/91jYFn6zFdPvbSQ1A",
         "telefono": "+582648152576"
       },
       {
         "id": 22,
         "name": "Farmacia Bethania",
-        "direccion": "",
+        "direccion": "Calle El Rosario, CC Capri II Local 3",
+        "googleMap": "https://goo.gl/maps/cDNET7cR2yBrzukT9",
         "telefono": "+582642415250"
       },
       {
         "id": 23,
-        "name": "El Lucero",
-        "direccion": "",
-        "telefono": "+582643714876"
+        "name": "Farmacia Bolivariana Las Cabilla",
+        "direccion": "Avenida principal Las Cabillas",
+        "googleMap": "https://goo.gl/maps/oUNXJMtkBBmJBJy19",
+        "telefono": "+582643712640"
       },
       {
         "id": 24,
-        "name": "19 De Abril",
-        "direccion": "",
+        "name": "Farmacia 19 De Abril",
+        "direccion": " Avenida La 33, Centro Comercial 19 De Abril, Local 1",
+        "googleMap": "https://goo.gl/maps/KQPf9wDckzmyMzLX9",
         "telefono": "+582642610772"
       },
       {
         "id": 25,
-        "name": "San Martin",
+        "name": "Farmacia San Martin",
         "direccion": "",
+        "googleMap": "",
         "telefono": "+582642415927"
-      },
-      {
-        "id": 26,
-        "name": "Bolivariana cabillas",
-        "direccion": "",
-        "telefono": "+582643712640"
       }
-      
     ],
     "oxigenos": [
         {
@@ -173,7 +191,7 @@
           },
           {
             "id": 3,
-            "name": " Jacobo Olivares",
+            "name": "Jacobo Olivares",
             "direccion": "",
             "telefono": "+584246976737"
           },
@@ -201,47 +219,47 @@
             "direccion": "",
             "telefono": "+584127400781"
           }
+      ],
+      "deliverys": [
+          {
+            "id": 1,
+            "name": "Rafael Parra",
+            "ws": "+584146229110",
+            "ig": "",
+            "telefono": "+584146229110"
+          },
+          {
+            "id": 1,
+            "name": "Bici Bike Delivery Service",
+            "ws": "+584143674254",
+            "ig": "https://www.instagram.com/bicibikedelivery",
+            "telefono": "+584143674254"
+          }
       ]
 }
 
-// 9. F. Saas: 0800-7227123.
-// 10. F.Bolivariana 5 BoCas: 02643711733.
-// 11.Botiquería Catedral: 0264-2411453.
-// 12. Carnevalli: 0264-2411154.
-// 13. F. Frente Centro Médico: 02642411017.
-// 14. ColFarma: 0264-3718575.
-// 15. Farmaplaza: 0264-3714368.
-// 16. F. Luz 1: 0264-2612666.
-// 17. F.Lado D Catedral: 02642411174.
-// 18. F. R10: 02643718870. 
-// 19. Santa Clara: 02643710005.
-// 20. FarmaTodo: 02642417965.
-// 21. F. Concordia: 02648152576, 02642512777, 02649350343.
-// 22. F. Bethania: 02642415250.
-// 23. El Lucero: 02643714876.
-// 24. 19 De Abril: 0264-2610772.
-// 25. San Martin: 0264-2415927.
-// 26. Bolivariana cabillas: 0264-3712640.
-
-// Bombonas de Oxígeno Cabimas
-
-// Hermanos Calle
-// 04146123643
-
-// Héctor Bombona
-// 04246257396
-
-// Jacobo Olivares
-// 04246976737
-
-// Juan Ordoñez
-// 04246244984
-
-// Inmacolca
-// 04126812261
-
-// Oviher Cenibit
-// 04140631985
-
-// Oxiferreca
-// 04127400781
+// 1-Farmacia Comprepormenos +58 424-6465357
+// 2-Farmacia SAAS Razetti  +58 412-2267728
+// 3-Farmacia Farmacentro 1 +58 414-6759432 
+// 4-Farmacia Farmacentro 1 Turno de noche 02642417880
+// 4.1-Farmacia Farmacentro Pingüino +58 412-1697804
+// 5-Farmacia MaraPlus Centro +58 424-6449592
+// 6-Farmacia Maraplus Intercomunal +58 412-1640650
+// 7-Farmacia Centro Cívico +58 412-1264983
+// 8-Farmacia SAS Barrio Obrero +58 424-6074140 
+// 9-Farmacia San Isidro +58 424-6858937
+// 10-Farmacia 19 de Abril +58 412-6520960 
+// 10.1- Farmacia 19 de Abril Guardia de noche +58 412-6539437
+// 10.2- Farmacia 19 de Abril Guardia de noche +58 414-6306586
+// 11- Farmacia SAAS LA TROPICAL Mcbo +58 414-1660960
+// 12- Farmacia Farmatodo +58 424-2443848
+// 13- Farmacia Locatel +58 414-2182936
+// 14-Farmacia Economica +58 424-6581939
+// 15-Farmacia Marchap +58 414-6775130
+// 16-Farmacia las Cabillas +58 424-6681553
+// 17- Farmacia las 4 Y 2 +58 414-6342578
+// 18- Farmacia la Luz la J +58 412-1675838
+// 19- Farmacia Riderina +58 412-0642151
+// 20- Farmacia Farma bien +58 424-6700387
+// 21- Farmacia Farma Ahorro +58 424-6683879
+// 22- Farmacia Mediquir Ciudad Ojeda +58 414-6851340
